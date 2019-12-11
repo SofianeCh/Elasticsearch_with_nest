@@ -1,0 +1,15 @@
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Elasticsearch.exe
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Elasticsearch.deps.json
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Elasticsearch.runtimeconfig.json
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Elasticsearch.runtimeconfig.dev.json
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Elasticsearch.dll
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Elasticsearch.pdb
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Elasticsearch.Net.dll
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Nest.dll
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\obj\Release\netcoreapp3.0\Elasticsearch.csprojAssemblyReference.cache
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\obj\Release\netcoreapp3.0\Elasticsearch.AssemblyInfoInputs.cache
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\obj\Release\netcoreapp3.0\Elasticsearch.AssemblyInfo.cs
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\obj\Release\netcoreapp3.0\Elasticsearch.csproj.CopyComplete
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\obj\Release\netcoreapp3.0\Elasticsearch.dll
+C:\Users\sofiane\Documents\c#\Elasticsearch\Elasticsearch\obj\Release\netcoreapp3.0\Elasticsearch.pdb
